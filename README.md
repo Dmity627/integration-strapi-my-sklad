@@ -1,0 +1,1 @@
+# integration-strapi-my-warehouse
