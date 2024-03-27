@@ -1,1 +1,1 @@
-# integration-strapi-my-warehouse
+# integration-strapi-my-sklad
